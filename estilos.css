@@ -1,0 +1,6 @@
+body{
+    background-color: rgb(0, 89, 255);                          /*color del fondo de la pagina*/
+    color: firebrick;                                          /*cambiar color de letra*/
+    font-family: Georgia, 'Times New Roman', Times, serif;       /*linea para cambiar tipo de letra*/
+
+}
